@@ -9,6 +9,12 @@
 
 - [知乎日报](http://daily.zhihu.com/)
 
+- [Python日报](http://py.memect.com/)
+
+- [机器学习日报](http://ml.memect.com/)
+
+- [Web技术日报](http://web.memect.com/)
+
 ## Weekly
 
 - [Html5 Weekly](http://html5weekly.com/)
